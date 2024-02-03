@@ -24,10 +24,10 @@ print
 print "Coded By : Mr. Sakib"
 print "Author   : Sakib King"
 print "Github   : github.com/Sakibazamgarh"
-print "Fb Page  : facebook.com/TeamUPofficial"
-print "FB Group : facebook.com/groups/UP"
+print "Fb Page  : facebook.com/T34MSakibofficial"
+print "FB Group : facebook.com/groups/Sakib"
 print "Telegram : t.me/Sakibking00"
-print "Join Sakib Space TG Group To Get Premium Apk(s) Free"
+print "Join Sakib King TG Group To Get Premium Apk(s) Free"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
 print
 ip = raw_input("IP Target : ")
