@@ -17,7 +17,7 @@
 - $ `pkg install python2`
 - $ `pkg install git`
 - $ `pkg install figlet`
-- $ `git clone https://www.github.com/Sakibazamgarh/King-DdoS.git`
+- $ `git clone https://github.com/Sakibkingazamgarh/King`
 - $ `cd King-DdoS`
 - $ `chmod +x King-DdoS.py`
 - $ `python2 King-DdoS.py`
